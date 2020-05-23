@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>初めてのHTML　Windows
+	</head>
+	<body>
+		<p>
+		はじめてのHTML<br>
+		環境はWindows
+		</p>
+	</body>
+
+</html>

@@ -1,0 +1,8 @@
+for i in range(10):
+    print("Hello, World!")
+http://tinyuri.com/hzyxgf4
+def f(x):
+    return x * 2
+# http://tinyurl.com/j9dctwl
+def f(x):
+    retern x*2

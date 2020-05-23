@@ -1,0 +1,25 @@
+[2020-05-19 16:14:46.169] [exthost] [info] extension host started
+[2020-05-19 16:14:46.262] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-05-19 16:14:46.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/extensions/ms-python.python-2020.5.78807/out/client/extension
+[2020-05-19 16:14:46.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-19 16:14:46.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/debug-auto-launch/dist/extension
+[2020-05-19 16:14:46.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-19 16:14:46.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/emmet/dist/extension
+[2020-05-19 16:14:46.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-19 16:14:46.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/git/dist/main
+[2020-05-19 16:14:46.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-19 16:14:46.751] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/github-authentication/dist/extension.js
+[2020-05-19 16:14:46.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-19 16:14:46.759] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/merge-conflict/dist/extension
+[2020-05-19 16:14:46.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-19 16:14:46.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/search-result/dist/extension.js
+[2020-05-19 16:14:46.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-19 16:14:46.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/vscode-account/dist/extension.js
+[2020-05-19 16:14:46.772] [exthost] [info] eager extensions activated
+[2020-05-19 16:14:47.827] [exthost] [info] Extension 'ms-python.python' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-05-19 16:15:21.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-19 16:15:21.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/configuration-editing/dist/extension
+[2020-05-19 16:15:21.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-19 16:15:21.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/json-language-features/client/dist/jsonMain
+[2020-05-19 16:15:21.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-19 16:15:21.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/s20009/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/typescript-language-features/dist/extension

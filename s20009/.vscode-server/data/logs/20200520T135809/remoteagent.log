@@ -1,0 +1,22 @@
+[2020-05-20 13:58:09.964] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-05-20 13:58:09.964] [remoteagent] [info] Extension host agent started.
+[2020-05-20 13:58:10.230] [remoteagent] [info] [::ffff:127.0.0.1][9611e2eb][ManagementConnection] New connection established.
+[2020-05-20 13:58:10.232] [remoteagent] [info] [::ffff:127.0.0.1][b64a84d7][ExtensionHostConnection] New connection established.
+[2020-05-20 13:58:11.250] [remoteagent] [info] [::ffff:127.0.0.1][b64a84d7][ExtensionHostConnection] <61> Launched Extension Host Process.
+[2020-05-20 13:58:12.450] [remoteagent] [info] Installing extension: ms-python.python
+[2020-05-20 13:58:17.026] [remoteagent] [info] Downloaded extension: ms-python.python /tmp/15195a45-54cb-4cb0-b0de-ea52e091d2b4
+[2020-05-20 13:58:22.485] [remoteagent] [info] Extracted extension to /home/s20009/.vscode-server/extensions/.ms-python.python-2020.5.80290: ms-python.python
+[2020-05-20 13:58:22.596] [remoteagent] [info] Renamed to /home/s20009/.vscode-server/extensions/ms-python.python-2020.5.80290
+[2020-05-20 13:58:22.605] [remoteagent] [info] Installation completed. ms-python.python
+[2020-05-20 13:58:22.638] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-05-20 17:03:36.812] [remoteagent] [info] [::ffff:127.0.0.1][9611e2eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-05-20 17:03:37.894] [remoteagent] [info] [::ffff:127.0.0.1][b64a84d7][ExtensionHostConnection] <61> Extension Host Process exited with code: 0, signal: null.
